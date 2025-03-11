@@ -29,7 +29,7 @@
 
 | 微調腳本 |
 | ------- |
-| [Garuda Xfce Config](https://github.com/samwhelp/garuda-xfce-adjustment/tree/main/prototype/main/xfce-config) |
+| [Garuda Xfce Config](https://github.com/samwhelp/garuda-xfce-adjustment/tree/main/prototype/main/xfce-config/full/Main) |
 | [Tool Config](https://github.com/samwhelp/garuda-adjustment/tree/main/prototype/main/tool-config/part) |
 
 
