@@ -21,9 +21,10 @@ has_children: false
 
 ## Garuda Linux / Edition
 
-| Garuda Linux Edition |
-| -------------------- |
-| [Garuda XFCE](https://garudalinux.org/installation?edition=xfce) |
+| Garuda Linux Edition / Settings |
+| ---- |
+| [Garuda Common Settings](https://gitlab.com/garuda-linux/themes-and-settings/settings/garuda-common-settings) |
+| [Garuda Xfce](https://gitlab.com/garuda-linux/themes-and-settings/settings/garuda-xfce-settings) |
 
 
 
