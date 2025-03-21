@@ -13,11 +13,23 @@ parent: 一覽表
 
 ## 主題
 
+* [相關專案](#相關專案)
 * [系統操作](#系統操作)
 * [開啟應用程式](#開啟應用程式)
 * [視窗操作](#視窗操作)
 * [切換](#切換)
 * [相關連結](#相關連結)
+
+
+
+
+## 相關專案
+
+| [hotkey-tips](https://github.com/samwhelp/garuda-xfce-adjustment/tree/main/project/gen/hotkey-tips) |
+| ----------- |
+| [hotkey-tips.md](https://github.com/samwhelp/garuda-xfce-adjustment/blob/main/project/gen/hotkey-tips/dist/locale/zh_TW/hotkey-tips.md) |
+| [hotkey-tips.tsv](https://github.com/samwhelp/garuda-xfce-adjustment/blob/main/project/gen/hotkey-tips/dist/locale/zh_TW/hotkey-tips.tsv) |
+| [hotkey-tips.sh](https://github.com/samwhelp/garuda-xfce-adjustment/blob/main/project/gen/hotkey-tips/dist/locale/zh_TW/hotkey-tips.sh) |
 
 
 
